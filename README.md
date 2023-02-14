@@ -14,17 +14,6 @@
 
 - &#127891; On education: programmer
 
-## &nbsp;
-
-## &nbsp;
-
-## &nbsp;
-
-## &nbsp;
-
-## &nbsp;
-
-## &nbsp;
 
 <img alt="devstack" src="./assets/gifs/devstack.gif" width='35' align="left"/>
 
